@@ -1,2 +1,2 @@
-# Computer_games_development
+# Computer games development
 Public repository for computer games development at Algebra University.
